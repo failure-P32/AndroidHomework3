@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rg_frag"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RadioButton
+            android:id="@+id/rb_anim"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:checked="true"
+            android:text="@string/anim_frag" />
+        <RadioButton
+            android:id="@+id/rb_lot"
+            android:layout_marginLeft="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/lottie_frag" />
+    </RadioGroup>
+
+

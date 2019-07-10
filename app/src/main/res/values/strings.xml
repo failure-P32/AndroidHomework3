@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="scale">Scale</string>
+    <string name="alpha">Alpha</string>
+    <string name="both">Both</string>
+    <string name="obj_anim">Object Animator</string>
+    <string name="anim_frag">Object Animator Page</string>
+    <string name="lottie_frag">Lottie Animator Page</string>
+    <string name="choose_frag">Choose a Page</string>
+</resources>
